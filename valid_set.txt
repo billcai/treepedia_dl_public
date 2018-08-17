@@ -1,0 +1,80 @@
+./cambridge_gsv/Cambridge_gsv_1.jpg ./cambridge_labels/cambridge_1.jpg
+./cambridge_gsv/Cambridge_gsv_10.jpg ./cambridge_labels/cambridge_10.jpg
+./cambridge_gsv/Cambridge_gsv_17.jpg ./cambridge_labels/cambridge_17.jpg
+./cambridge_gsv/Cambridge_gsv_20.jpg ./cambridge_labels/cambridge_20.jpg
+./cambridge_gsv/Cambridge_gsv_37.jpg ./cambridge_labels/cambridge_37.jpg
+./cambridge_gsv/Cambridge_gsv_40.jpg ./cambridge_labels/cambridge_40.jpg
+./cambridge_gsv/Cambridge_gsv_42.jpg ./cambridge_labels/cambridge_42.jpg
+./cambridge_gsv/Cambridge_gsv_44.jpg ./cambridge_labels/cambridge_44.jpg
+./cambridge_gsv/Cambridge_gsv_49.jpg ./cambridge_labels/cambridge_49.jpg
+./cambridge_gsv/Cambridge_gsv_58.jpg ./cambridge_labels/cambridge_58.jpg
+./cambridge_gsv/Cambridge_gsv_63.jpg ./cambridge_labels/cambridge_63.jpg
+./cambridge_gsv/Cambridge_gsv_7.jpg ./cambridge_labels/cambridge_7.jpg
+./cambridge_gsv/Cambridge_gsv_85.jpg ./cambridge_labels/cambridge_85.jpg
+./cambridge_gsv/Cambridge_gsv_9.jpg ./cambridge_labels/cambridge_9.jpg
+./cambridge_gsv/Cambridge_gsv_95.jpg ./cambridge_labels/cambridge_95.jpg
+./singapore_gsv/Singapore_gsv_10.jpg ./singapore_labels/singapore_10.jpg
+./singapore_gsv/Singapore_gsv_31.jpg ./singapore_labels/singapore_31.jpg
+./singapore_gsv/Singapore_gsv_34.jpg ./singapore_labels/singapore_34.jpg
+./singapore_gsv/Singapore_gsv_45.jpg ./singapore_labels/singapore_45.jpg
+./singapore_gsv/Singapore_gsv_46.jpg ./singapore_labels/singapore_46.jpg
+./singapore_gsv/Singapore_gsv_47.jpg ./singapore_labels/singapore_47.jpg
+./singapore_gsv/Singapore_gsv_49.jpg ./singapore_labels/singapore_49.jpg
+./singapore_gsv/Singapore_gsv_5.jpg ./singapore_labels/singapore_5.jpg
+./singapore_gsv/Singapore_gsv_51.jpg ./singapore_labels/singapore_51.jpg
+./singapore_gsv/Singapore_gsv_66.jpg ./singapore_labels/singapore_66.jpg
+./singapore_gsv/Singapore_gsv_67.jpg ./singapore_labels/singapore_67.jpg
+./singapore_gsv/Singapore_gsv_69.jpg ./singapore_labels/singapore_69.jpg
+./singapore_gsv/Singapore_gsv_75.jpg ./singapore_labels/singapore_75.jpg
+./singapore_gsv/Singapore_gsv_84.jpg ./singapore_labels/singapore_84.jpg
+./singapore_gsv/Singapore_gsv_89.jpg ./singapore_labels/singapore_89.jpg
+./johannesburg_gsv/Johannesburg_gsv_13.jpg ./johannesburg_labels/johannesburg_13.jpg
+./johannesburg_gsv/Johannesburg_gsv_16.jpg ./johannesburg_labels/johannesburg_16.jpg
+./johannesburg_gsv/Johannesburg_gsv_22.jpg ./johannesburg_labels/johannesburg_22.jpg
+./johannesburg_gsv/Johannesburg_gsv_26.jpg ./johannesburg_labels/johannesburg_26.jpg
+./johannesburg_gsv/Johannesburg_gsv_29.jpg ./johannesburg_labels/johannesburg_29.jpg
+./johannesburg_gsv/Johannesburg_gsv_31.jpg ./johannesburg_labels/johannesburg_31.jpg
+./johannesburg_gsv/Johannesburg_gsv_35.jpg ./johannesburg_labels/johannesburg_35.jpg
+./johannesburg_gsv/Johannesburg_gsv_36.jpg ./johannesburg_labels/johannesburg_36.jpg
+./johannesburg_gsv/Johannesburg_gsv_42.jpg ./johannesburg_labels/johannesburg_42.jpg
+./johannesburg_gsv/Johannesburg_gsv_48.jpg ./johannesburg_labels/johannesburg_48.jpg
+./johannesburg_gsv/Johannesburg_gsv_56.jpg ./johannesburg_labels/johannesburg_56.jpg
+./johannesburg_gsv/Johannesburg_gsv_61.jpg ./johannesburg_labels/johannesburg_61.jpg
+./johannesburg_gsv/Johannesburg_gsv_62.jpg ./johannesburg_labels/johannesburg_62.jpg
+./johannesburg_gsv/Johannesburg_gsv_63.jpg ./johannesburg_labels/johannesburg_63.jpg
+./johannesburg_gsv/Johannesburg_gsv_71.jpg ./johannesburg_labels/johannesburg_71.jpg
+./johannesburg_gsv/Johannesburg_gsv_76.jpg ./johannesburg_labels/johannesburg_76.jpg
+./johannesburg_gsv/Johannesburg_gsv_8.jpg ./johannesburg_labels/johannesburg_8.jpg
+./johannesburg_gsv/Johannesburg_gsv_82.jpg ./johannesburg_labels/johannesburg_82.jpg
+./johannesburg_gsv/Johannesburg_gsv_89.jpg ./johannesburg_labels/johannesburg_89.jpg
+./johannesburg_gsv/Johannesburg_gsv_96.jpg ./johannesburg_labels/johannesburg_96.jpg
+./oslo_gsv/Oslo_gsv_0.jpg ./oslo_labels/oslo_0.jpg
+./oslo_gsv/Oslo_gsv_1.jpg ./oslo_labels/oslo_1.jpg
+./oslo_gsv/Oslo_gsv_12.jpg ./oslo_labels/oslo_12.jpg
+./oslo_gsv/Oslo_gsv_28.jpg ./oslo_labels/oslo_28.jpg
+./oslo_gsv/Oslo_gsv_34.jpg ./oslo_labels/oslo_34.jpg
+./oslo_gsv/Oslo_gsv_36.jpg ./oslo_labels/oslo_36.jpg
+./oslo_gsv/Oslo_gsv_41.jpg ./oslo_labels/oslo_41.jpg
+./oslo_gsv/Oslo_gsv_42.jpg ./oslo_labels/oslo_42.jpg
+./oslo_gsv/Oslo_gsv_55.jpg ./oslo_labels/oslo_55.jpg
+./oslo_gsv/Oslo_gsv_60.jpg ./oslo_labels/oslo_60.jpg
+./oslo_gsv/Oslo_gsv_65.jpg ./oslo_labels/oslo_65.jpg
+./oslo_gsv/Oslo_gsv_73.jpg ./oslo_labels/oslo_73.jpg
+./oslo_gsv/Oslo_gsv_80.jpg ./oslo_labels/oslo_80.jpg
+./oslo_gsv/Oslo_gsv_84.jpg ./oslo_labels/oslo_84.jpg
+./oslo_gsv/Oslo_gsv_85.jpg ./oslo_labels/oslo_85.jpg
+./oslo_gsv/Oslo_gsv_9.jpg ./oslo_labels/oslo_9.jpg
+./oslo_gsv/Oslo_gsv_90.jpg ./oslo_labels/oslo_90.jpg
+./oslo_gsv/Oslo_gsv_98.jpg ./oslo_labels/oslo_98.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_0.jpg ./sao_paulo_labels/saopaulo_0.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_10.jpg ./sao_paulo_labels/saopaulo_10.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_15.jpg ./sao_paulo_labels/saopaulo_15.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_2.jpg ./sao_paulo_labels/saopaulo_2.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_26.jpg ./sao_paulo_labels/saopaulo_26.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_37.jpg ./sao_paulo_labels/saopaulo_37.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_46.jpg ./sao_paulo_labels/saopaulo_46.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_56.jpg ./sao_paulo_labels/saopaulo_56.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_59.jpg ./sao_paulo_labels/saopaulo_59.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_6.jpg ./sao_paulo_labels/saopaulo_6.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_66.jpg ./sao_paulo_labels/saopaulo_66.jpg
+./sao_paulo_gsv/Sao Paulo_gsv_68.jpg ./sao_paulo_labels/saopaulo_68.jpg
