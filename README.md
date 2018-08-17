@@ -20,11 +20,11 @@ After doing so, you can clone this repository and also download the trained mode
 git clone git@github.com:billcai/treepedia_dl_public.git
 ```
 
-Google Drive link for trained model weights: Download [here]{https://drive.google.com/open?id=1A9IoXdKYolJ3G8TdTrYaqHlh3rKZ5wo8}
+Google Drive link for trained model weights: Download [here](https://drive.google.com/open?id=1A9IoXdKYolJ3G8TdTrYaqHlh3rKZ5wo8)
 
-Google Drive link for GSV images: Download [here]{https://drive.google.com/open?id=1F0B4D8DEtJOXFb_j6tN0V41qjVK-uKNL}
+Google Drive link for GSV images: Download [here](https://drive.google.com/open?id=1F0B4D8DEtJOXFb_j6tN0V41qjVK-uKNL)
 
-*you may use the python package gdrive if you have installed gdrive*
+You may use other python packages (Google API Client, pydrive, gdrive) to download the files from the links above.
 
 Next, unzip the files into the cloned treepedia-github repository. Make sure that the DOWNLOADED-FILES file is in the root folder of the cloned repo. You are now ready!
 
