@@ -20,6 +20,6 @@ If you wish to incorporate *predict_single* into your own script, *predict_singl
 def predict_single(model, image, verbosity)
 ```
 
-**model** is a loaded Keras model, which can be loaded from a hdf5 saved file using *keras.models.load_model*. Image is a numpy array that must be in the format of [H,W,3]. Verbosity determines what is printed; verbosity=1 means that evaluation time estimates would be printed as well.
+**model** is a loaded Keras model, which can be loaded from a hdf5 saved file using *keras.models.load_model*. **image** is a numpy array that must be in the format of [H,W,3]. **verbosity** determines what is printed; verbosity=1 means that evaluation time estimates would be printed as well.
 
 
