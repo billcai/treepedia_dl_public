@@ -1,5 +1,5 @@
 # Fast and Accurate Estimation of Green View Index
-Replication of results for the following paper: [Treepedia 2.0: Deep Learning Based Large Scale Quantification of Urban Canopy Cover](https://arxiv.org/abs/e 1808.04754), which is currently published as an arxiv preprint, and has been accepted/will appear in the IEEE BigData Congress 2018 Conference Proceedings.
+Replication of results for the following paper: [Treepedia 2.0: Deep Learning Based Large Scale Quantification of Urban Canopy Cover](https://arxiv.org/abs/1808.04754), which is currently published as an arxiv preprint, and has been accepted/will appear in the IEEE BigData Congress 2018 Conference Proceedings.
 
 This project is by the Treepedia team at the [MIT Senseable City Lab](senseable.mit.edu). It is also meant to be an extension of the [existing Treepedia repository](https://github.com/mittrees/Treepedia_Public) by directly replacing the GreenView_Calculate.py script. Further details are provided below.
 
@@ -8,6 +8,8 @@ This project is by the Treepedia team at the [MIT Senseable City Lab](senseable.
 TBC
 
 ## Replicating results
+
+TBC
 
 ## Replacing GreenView_Calculate.py
 
