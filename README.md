@@ -3,7 +3,7 @@ Replication of results for the following paper: [Treepedia 2.0: Deep Learning Ba
 
 This project is by the Treepedia team at the [MIT Senseable City Lab](http://senseable.mit.edu). It is also meant to be an extension of the [existing Treepedia repository](https://github.com/mittrees/Treepedia_Public) by directly replacing the GreenView_Calculate.py script. Further details are provided below.
 
-We would love to hear how this has helped in your own projects (contact us at [senseable-trees@mit.edu]{mailto:senseable-trees@mit.edu}), and would appreciate (but not require) citation and attribution if you have used our code/models in any of your projects.
+We would love to hear how this has helped in your own projects (contact us at [senseable-trees@mit.edu](mailto:senseable-trees@mit.edu)), and would appreciate (but not require) citation and attribution if you have used our code/models in any of your projects.
 
 ## Requirements and setup
 
